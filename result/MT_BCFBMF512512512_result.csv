@@ -1,0 +1,11 @@
+BCF,BMF,group,BCF,BMF,group,BCF,BMF,group
+0.9596,0.9539,training,0.6875,0.8928,valid,0.6647,0.935,test
+0.9151,0.9406,training,0.6888,0.8509,valid,0.6487,0.8826,test
+0.9019,0.9067,training,0.7188,0.84,valid,0.6796,0.8934,test
+0.9443,0.9301,training,0.684,0.8856,valid,0.6739,0.9048,test
+0.9591,0.969,training,0.6834,0.8914,valid,0.6346,0.9316,test
+0.924,0.9184,training,0.6851,0.8355,valid,0.6496,0.9124,test
+0.9604,0.9668,training,0.7041,0.8661,valid,0.6588,0.9218,test
+0.9464,0.9457,training,0.6982,0.8769,valid,0.6663,0.9291,test
+0.9408,0.9295,training,0.6985,0.8829,valid,0.6465,0.888,test
+0.9518,0.9544,training,0.6981,0.8803,valid,0.6712,0.9121,test
